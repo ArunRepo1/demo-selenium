@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+/**
+ * @author Dell
+ *
+ */
+module SeleinumIntro {
+	requires org.seleniumhq.selenium.api;
+	requires org.seleniumhq.selenium.chrome_driver;
+}
